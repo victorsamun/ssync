@@ -1,0 +1,2 @@
+# ssync
+Simple file synchronizer
